@@ -46,7 +46,7 @@ overlay.addEventListener('click', function() {
 
 // Create and load background image
 var bgImage = new Image();
-bgImage.src = 'moon1.png'; // Make sure to replace with your actual image path
+bgImage.src = 'moon.png'; // Make sure to replace with your actual image path
 
 var frameNumber = 0;
 var opacity = 0;
